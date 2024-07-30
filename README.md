@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I am Rosh Hashana Torres!</h1>
 <div align="center"> <img src="Header.png"> </div>
 <h3 align="center">A tech enthusiast driven by a passion for innovation and problem-solving. With expertise in programming, software development, and data analysis, I'm eager to contribute to transformative projects and push the boundaries of technology.</h3>
+<img align="right" alt="Coding" width="300" src="Profile.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshtorres&label=Profile%20views&color=0e75b6&style=flat" alt="roshtorres" /> </p>
 
