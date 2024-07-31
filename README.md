@@ -7,11 +7,11 @@
 
 - 📬 Contact Me: **roshhashanatorres@gmail.com**
 
-- 🔗 Connect with Me on LinkedIn: **[linkedin.com/in/roshtorres](https://www.linkedin.com/in/roshtorres/)**
+- 🔗 Connect with Me on: **[LinkedIn - roshtorres](https://www.linkedin.com/in/roshtorres)**
 
-- 💻 Check Out My Projects: **[github.com/roshtorres](github.com/roshtorres)**
+- 💻 Check Out My Projects on: **[GitHub - roshtorres](https://github.com/roshtorres)**
 
-- 🌐 Learn More About Me: **[sites.google.com/view/roshtorres](sites.google.com/view/roshtorres)**
+- 🌐 Learn More About Me: **[My Personal Website](https://sites.google.com/view/roshtorres)**
 
 - ⚡ Fun Fact: **I have three coding buddies named Snitch, Sansa, and Sherlock—they're my dogs!**
 
