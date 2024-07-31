@@ -7,7 +7,7 @@
 
 - 📬 Contact Me: **roshhashanatorres@gmail.com**
 
-- 🔗 Connect with Me on LinkedIn: **[https://www.linkedin.com/in/roshtorres/](linkedin.com/in/roshtorres)**
+- 🔗 Connect with Me on LinkedIn: **[linkedin.com/in/roshtorres](https://www.linkedin.com/in/roshtorres/)**
 
 - 💻 Check Out My Projects: **[github.com/roshtorres](github.com/roshtorres)**
 
