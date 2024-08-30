@@ -17,8 +17,8 @@
 
 <h3 align="left">Social Medias:</h3>
 <p align="left">
-<a href="https://fb.com/roshhashana22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roshhashana22" height="30" width="40" /></a>
-<a href="https://instagram.com/roshhashanatorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshhashanatorres" height="30" width="40" /></a>
+<a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roshhashana22" height="30" width="40" /></a>
+<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshhashanatorres" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Software and Tools:</h3>
